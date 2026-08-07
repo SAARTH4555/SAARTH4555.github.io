@@ -4,6 +4,7 @@
     {
       "title": "Backend AI Engineer",
       "company": "Resilient Privacy",
+      "logo": "assets/img/logos/resilient-privacy.svg",
       "period": "Jan 2026 - May 2026",
       "location": "",
       "description": "Reduced manual data processing effort by 40% across 5+ production environments by engineering Python ETL pipelines with automated data cleansing logic, improving data integrity and operational reporting accuracy.\nEnsured data product accuracy through end-to-end User Acceptance Testing, validating schemas against business requirements and eliminating downstream data inconsistencies, directly supporting reporting compliance and operational data integrity.\nImproved pipeline output reliability by 35% by building reusable Python frameworks to query, reconcile, and resolve cross-system data quality issues, reducing escalations and supporting continuous operational continuity.",
@@ -16,6 +17,7 @@
     {
       "title": "Business and Marketing Analyst",
       "company": "University of Texas at Dallas",
+      "logo": "assets/img/logos/ut-dallas.svg",
       "period": "Jan 2025 - Jan 2026",
       "location": "",
       "description": "Built self-service Power BI and Tableau dashboards integrating multi-source datasets, enabling real-time KPI tracking across 5+ reporting workflows and eliminating manual reporting for operations and leadership teams.\nReduced reporting turnaround by 25% by leading stakeholder JAD sessions to align cross-functional teams on KPI definitions, then translating agreed requirements into Power BI report specifications that connected performance trends directly to management decisions.\nImproved analytics infrastructure efficiency by 30% by auditing data sources for gaps, documenting lineage and reporting logic to ensure accurate, traceable dashboards — directly supporting leadership decision-making and compliance reporting.",
@@ -28,6 +30,7 @@
     {
       "title": "Business Analyst",
       "company": "Redbytes Software Pvt Ltd",
+      "logo": "assets/img/logos/redbytes.svg",
       "period": "Jan 2023 - May 2024",
       "location": "",
       "description": "Reduced data pipeline errors by 20% by analyzing ERDs and database models to develop Teradata SQL-based ETL mappings, identifying process inefficiencies and translating findings into structured workflow improvements.\nStandardized operational KPI tracking across 3+ business units by designing Power BI dashboards with defined metric logic and data quality controls, improving reporting accuracy for operations and management teams.\nPartnered with technical and business stakeholders to gather functional requirements and translate operational needs into data products, reducing documentation cycle time.",
@@ -40,6 +43,7 @@
     {
       "title": "Data Analyst",
       "company": "Bucket list Holidays",
+      "logo": "assets/img/logos/bucket-list-holidays.svg",
       "period": "Jan 2022 - Dec 2022",
       "location": "",
       "description": "Increased revenue per booking by segmenting 5,000+ customers into high-value cohorts via Python demographic and purchase history analysis, surfacing upsell opportunities that drove premium package conversions.\nReduced trip cancellation rate by 20% across various regional markets by mapping booking drop-offs and presenting conversion diagnostics to leadership, enabling targeted intervention strategies for high-risk customer segments.",

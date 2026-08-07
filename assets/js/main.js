@@ -79,6 +79,19 @@ async function loadHero() {
   set("heroTitle", hero.title);
   set("heroSummary", hero.summary, true);
 
+  const avatar = document.getElementById("heroAvatar");
+  if (avatar && hero.avatarUrl) {
+    avatar.src = hero.avatarUrl;
+    avatar.alt = hero.name ? `${hero.name} — portrait` : "Portrait";
+    avatar.addEventListener("error", () => {
+      const fig = avatar.closest(".hero-portrait");
+      if (fig) fig.remove();
+    });
+  } else {
+    const fig = document.querySelector(".hero-portrait");
+    if (fig) fig.remove();
+  }
+
   const highlights = document.getElementById("heroHighlights");
   if (highlights) {
     highlights.innerHTML = "";
@@ -183,11 +196,20 @@ async function loadExperience() {
           .join("");
       }
 
+      const logo = exp.logo
+        ? `<img class="timeline-logo" src="${escapeHtml(exp.logo)}" alt="${escapeHtml(
+            exp.company
+          )} logo" loading="lazy" decoding="async" onerror="this.remove()" />`
+        : "";
+
       item.innerHTML = `
         <div class="timeline-header">
-          <div>
-            <h3 class="timeline-title">${escapeHtml(exp.title)}</h3>
-            <p class="timeline-company">${escapeHtml(exp.company)}</p>
+          <div class="timeline-heading">
+            ${logo}
+            <div>
+              <h3 class="timeline-title">${escapeHtml(exp.title)}</h3>
+              <p class="timeline-company">${escapeHtml(exp.company)}</p>
+            </div>
           </div>
           <span class="timeline-period">${escapeHtml(exp.period)}</span>
         </div>

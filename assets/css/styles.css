@@ -287,8 +287,55 @@ ul {
   height: 1px;
   background: var(--line);
 }
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 0.9fr;
+  gap: clamp(2rem, 5vw, 4.5rem);
+  align-items: center;
+}
 .hero-content {
   max-width: 60rem;
+}
+.hero-portrait {
+  position: relative;
+  margin: 0;
+  justify-self: center;
+  width: min(100%, 22rem);
+}
+.hero-portrait img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.6) inset,
+    0 24px 50px -18px rgba(16, 47, 53, 0.45);
+}
+/* warm frame accent echoing the palette */
+.hero-portrait::before {
+  content: "";
+  position: absolute;
+  inset: -0.85rem -0.85rem auto auto;
+  width: 60%;
+  height: 60%;
+  border-top: 2px solid var(--sand-warm);
+  border-right: 2px solid var(--sand-warm);
+  border-radius: 0 18px 0 0;
+  opacity: 0.5;
+  z-index: -1;
+}
+@media (max-width: 860px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+  .hero-portrait {
+    grid-row: 1;
+    width: min(70%, 16rem);
+    justify-self: start;
+    margin-bottom: 0.5rem;
+  }
 }
 .hero-eyebrow {
   font-family: var(--font-mono);
@@ -526,9 +573,23 @@ ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
   gap: 0.5rem 1.5rem;
   margin-bottom: 1rem;
+}
+.timeline-heading {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.timeline-logo {
+  flex: none;
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  object-fit: contain;
+  background: #fff;
+  box-shadow: 0 6px 16px -8px rgba(0, 0, 0, 0.55);
 }
 .timeline-title {
   font-family: var(--font-display);
