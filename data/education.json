@@ -1,0 +1,32 @@
+{
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Master of Science in IT and Management",
+      "school": "The University of Texas at Dallas",
+      "institution": "The University of Texas at Dallas",
+      "period": "May 2026",
+      "details": "",
+      "description": ""
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Science and Business Systems and Honors in Data Science",
+      "school": "Mumbai University",
+      "institution": "Mumbai University",
+      "period": "May 2024",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Business Analytics & Sustainable Business Strategy",
+      "issuer": "Harvard"
+    },
+    {
+      "name": "Python",
+      "issuer": "Coursera"
+    }
+  ]
+}

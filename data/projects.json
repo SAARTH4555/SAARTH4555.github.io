@@ -1,0 +1,142 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "Healthcare Claims Data Warehouse, ETL Mapping",
+      "description": "Designed a Medicare claims data warehouse consolidating source systems and file specifications, building ETL mappings and BI report specifications that reduced requirements validation effort by 40% across a 4-sprint Agile project management cycle.\nAchieved zero critical defects at UAT sign-off by authoring test plans and traceability matrices across 130+ source-to-target fields, validated through SQL-based test data creation and verification queries.\nGathered business and technical requirements across data subject areas by leading structured requirements workshops, analyzing entity relationship diagrams and database models to produce a phased ETL work breakdown structure.",
+      "technologies": [
+        "ETL",
+        "BI",
+        "Agile",
+        "UAT",
+        "SQL",
+        "ERD"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "finances-database",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/finances-database",
+      "demo": "https://github.com/SAARTH4555/finances-database"
+    },
+    {
+      "title": "data-pipeline-with-dbt-using-airflow-on-gcp",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/data-pipeline-with-dbt-using-airflow-on-gcp",
+      "demo": "https://github.com/SAARTH4555/data-pipeline-with-dbt-using-airflow-on-gcp"
+    },
+    {
+      "title": "extracting-structured-data-from-pdfs",
+      "description": "Comprehensive project exploring software design patterns",
+      "technologies": [
+        "Python",
+        "Jupyter Notebook",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/extracting-structured-data-from-pdfs",
+      "demo": "https://github.com/SAARTH4555/extracting-structured-data-from-pdfs"
+    },
+    {
+      "title": "ecommerce-lakehouse-medallion",
+      "description": "Personal development project using industry best practices",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/ecommerce-lakehouse-medallion",
+      "demo": "https://github.com/SAARTH4555/ecommerce-lakehouse-medallion"
+    },
+    {
+      "title": "data-engineering-project",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/data-engineering-project",
+      "demo": "https://github.com/SAARTH4555/data-engineering-project"
+    },
+    {
+      "title": "retail_insights",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/retail_insights",
+      "demo": "https://github.com/SAARTH4555/retail_insights"
+    },
+    {
+      "title": "sentinel",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/sentinel",
+      "demo": "https://github.com/SAARTH4555/sentinel"
+    },
+    {
+      "title": "log-analysis-anomaly-detection",
+      "description": "Personal development project using industry best practices",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/log-analysis-anomaly-detection",
+      "demo": "https://github.com/SAARTH4555/log-analysis-anomaly-detection"
+    },
+    {
+      "title": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/contribution-history",
+      "demo": "https://github.com/SAARTH4555/contribution-history"
+    },
+    {
+      "title": "network-intrusion-detection-using-machine-learning",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/network-intrusion-detection-using-machine-learning",
+      "demo": "https://github.com/SAARTH4555/network-intrusion-detection-using-machine-learning"
+    },
+    {
+      "title": "soc-automation-lab",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/soc-automation-lab",
+      "demo": "https://github.com/SAARTH4555/soc-automation-lab"
+    }
+  ]
+}

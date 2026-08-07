@@ -1,0 +1,53 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "SQL",
+        "JOINs",
+        "CTEs",
+        "Subqueries"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "Looker",
+        "PowerPoint",
+        "Excel",
+        "Pivot Tables",
+        "Power Query",
+        "XLOOKUP",
+        "SAP",
+        "PostgreSQL",
+        "Snowflake",
+        "AWS",
+        "Google Analytics",
+        "Microsoft Power Automate",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        "Data Modeling",
+        "Data Mapping",
+        "Requirements Gathering",
+        "JAD Sessions",
+        "UAT",
+        "Gap Analysis",
+        "Project Management",
+        "ETL/ELT"
+      ]
+    }
+  ]
+}

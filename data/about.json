@@ -1,0 +1,21 @@
+{
+  "sectionTitle": "About Me",
+  "paragraphs": [
+    "Business Analyst with 3+ years translating complex operational and financial data into decision-ready narratives for executive and cross-functional stakeholders.",
+    "Skilled in Power BI, SQL, Python, and SAP (ERP) environments; experienced designing KPI frameworks, gap analyses, and multi-source dashboards that connect performance trends to operational decisions."
+  ],
+  "statistics": [
+    {
+      "value": "4+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "1+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "30+",
+      "label": "Technologies"
+    }
+  ]
+}

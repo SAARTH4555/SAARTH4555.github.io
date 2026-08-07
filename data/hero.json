@@ -1,0 +1,49 @@
+{
+  "greeting": "Hi, I'm",
+  "name": "SAARTH SHETTY",
+  "title": "Business Analyst",
+  "summary": "Business Analyst with 3+ years translating complex operational and financial data into decision-ready narratives for executive and cross-functional stakeholders.",
+  "avatarUrl": "/avatar.png",
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "text": "Professional Experience"
+    },
+    {
+      "icon": "fas fa-code",
+      "text": "Technical Expertise"
+    },
+    {
+      "icon": "fas fa-users",
+      "text": "Team Collaboration"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary",
+        "external": false
+      },
+      {
+        "text": "View My Work",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "http://www.linkedin.com/in/saarth-shetty",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:saarthshetty98@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}
