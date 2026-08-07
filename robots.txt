@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://AlexMorgan.com/sitemap.xml
+Sitemap: https://saarthshetty.com/sitemap.xml
