@@ -18,22 +18,46 @@
       "demo": ""
     },
     {
-      "title": "finances-database",
-      "description": "Hands-on learning experience with modern frameworks",
+      "title": "Retail Insights",
+      "description": "Analytics-engineering project on 541,909 real UK e-commerce transactions: a tested, documented dbt star schema feeding cohort retention, RFM segmentation, and window-function SQL, surfaced in an executive dashboard. Every metric is produced by dbt build with 79 passing tests — the engineering behind the numbers, not just a chart.",
       "technologies": [
-        "Jupyter Notebook"
+        "dbt",
+        "SQL",
+        "Star Schema",
+        "Cohort Analysis",
+        "RFM",
+        "Data Visualization"
       ],
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-chart-line",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/retail_insights",
+      "demo": "https://github.com/SAARTH4555/retail_insights"
+    },
+    {
+      "title": "Finances Database",
+      "description": "Personal-finance analytics project that builds a SQL database from raw transactions, layers reporting views on top, and surfaces spending and cash-flow trends in a dashboard.",
+      "technologies": [
+        "SQL",
+        "Jupyter Notebook",
+        "Data Modeling",
+        "Dashboard"
+      ],
+      "icon": "fas fa-database",
       "image": "",
       "github": "https://github.com/SAARTH4555/finances-database",
       "demo": "https://github.com/SAARTH4555/finances-database"
     },
     {
-      "title": "data-pipeline-with-dbt-using-airflow-on-gcp",
-      "description": "Hands-on learning experience with modern frameworks",
+      "title": "Data Pipeline with dbt, Airflow & GCP",
+      "description": "Automated data pipeline that ingests incoming data into BigQuery using Airflow DAGs, models it into a star schema with dbt, runs Soda data-quality checks, and reports through Metabase — orchestrated with Astronomer on Google Cloud Platform.",
       "technologies": [
-        "Python",
-        "Dockerfile"
+        "Airflow",
+        "dbt",
+        "BigQuery",
+        "Soda",
+        "Metabase",
+        "GCP",
+        "Docker"
       ],
       "icon": "fas fa-project-diagram",
       "image": "",
@@ -41,36 +65,45 @@
       "demo": "https://github.com/SAARTH4555/data-pipeline-with-dbt-using-airflow-on-gcp"
     },
     {
-      "title": "extracting-structured-data-from-pdfs",
-      "description": "Comprehensive project exploring software design patterns",
+      "title": "Extracting Structured Data from PDFs",
+      "description": "A Retrieval-Augmented Generation (RAG) application that uses LLMs to extract structured fields — title, authors, summary, publication year — from research-paper PDFs, with a Streamlit interface and Docker containerization for deployment.",
       "technologies": [
         "Python",
-        "Jupyter Notebook",
-        "Dockerfile"
+        "LangChain",
+        "OpenAI",
+        "RAG",
+        "Streamlit",
+        "Docker"
       ],
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-file-lines",
       "image": "",
       "github": "https://github.com/SAARTH4555/extracting-structured-data-from-pdfs",
       "demo": "https://github.com/SAARTH4555/extracting-structured-data-from-pdfs"
     },
     {
-      "title": "ecommerce-lakehouse-medallion",
-      "description": "Personal development project using industry best practices",
+      "title": "E-Commerce Lakehouse (Medallion)",
+      "description": "An e-commerce lakehouse on Databricks and Delta Lake implementing a Bronze → Silver → Gold medallion architecture, with change-data-capture ingestion, SCD Type 2 history tracking, and customer segmentation served to BI/analytics.",
       "technologies": [
-        "HTML",
-        "Python"
+        "Databricks",
+        "Delta Lake",
+        "PySpark",
+        "Medallion Architecture",
+        "SQL"
       ],
-      "icon": "fas fa-brain",
+      "icon": "fas fa-layer-group",
       "image": "",
       "github": "https://github.com/SAARTH4555/ecommerce-lakehouse-medallion",
       "demo": "https://github.com/SAARTH4555/ecommerce-lakehouse-medallion"
     },
     {
-      "title": "data-engineering-project",
-      "description": "Portfolio project showcasing development capabilities",
+      "title": "End-to-End Data Engineering System",
+      "description": "An end-to-end streaming pipeline that streams data from an API into a Kafka topic, processes it with Spark into PostgreSQL, and orchestrates the streaming and Spark jobs with Airflow — all built and run with Docker Compose.",
       "technologies": [
-        "Python",
-        "Dockerfile"
+        "Kafka",
+        "Spark",
+        "Airflow",
+        "PostgreSQL",
+        "Docker"
       ],
       "icon": "fas fa-project-diagram",
       "image": "",
@@ -78,62 +111,59 @@
       "demo": "https://github.com/SAARTH4555/data-engineering-project"
     },
     {
-      "title": "retail_insights",
-      "description": "Educational project for mastering software architecture",
-      "technologies": [
-        "Python"
-      ],
-      "icon": "fas fa-project-diagram",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/retail_insights",
-      "demo": "https://github.com/SAARTH4555/retail_insights"
-    },
-    {
-      "title": "sentinel",
-      "description": "Portfolio project showcasing development capabilities",
+      "title": "Sentinel — SOC Log Analytics",
+      "description": "A defensive, blue-team SOC log-analytics pipeline that ingests normalized security events, runs rule-based detections mapped to MITRE ATT&CK techniques alongside an unsupervised ML anomaly detector, scores detection quality against ground truth, and presents it in a Streamlit SOC console.",
       "technologies": [
         "Python",
-        "Dockerfile"
+        "Machine Learning",
+        "MITRE ATT&CK",
+        "Streamlit",
+        "Docker"
       ],
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-shield-halved",
       "image": "",
       "github": "https://github.com/SAARTH4555/sentinel",
       "demo": "https://github.com/SAARTH4555/sentinel"
     },
     {
-      "title": "log-analysis-anomaly-detection",
-      "description": "Personal development project using industry best practices",
+      "title": "Log Analysis & Anomaly Detection",
+      "description": "A log-analysis and anomaly-detection system that parses logs with regular expressions, extracts features, and uses an Isolation Forest model to flag unusual patterns that may indicate security threats, with real-time monitoring and visualization.",
       "technologies": [
-        "Python"
+        "Python",
+        "scikit-learn",
+        "Pandas",
+        "Isolation Forest"
       ],
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-magnifying-glass-chart",
       "image": "",
       "github": "https://github.com/SAARTH4555/log-analysis-anomaly-detection",
       "demo": "https://github.com/SAARTH4555/log-analysis-anomaly-detection"
     },
     {
-      "title": "contribution-history",
-      "description": "Generated GitHub contribution history",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/contribution-history",
-      "demo": "https://github.com/SAARTH4555/contribution-history"
-    },
-    {
-      "title": "network-intrusion-detection-using-machine-learning",
-      "description": "Modern web application demonstrating clean code principles",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
+      "title": "Network Intrusion Detection (Deep Learning)",
+      "description": "A network intrusion detection system based on the NSL-KDD dataset that uses autoencoders together with KNN and LDA models to perform binary and multi-class classification of network attacks, loosely based on published research.",
+      "technologies": [
+        "Python",
+        "Deep Learning",
+        "Autoencoders",
+        "scikit-learn"
+      ],
+      "icon": "fas fa-network-wired",
       "image": "",
       "github": "https://github.com/SAARTH4555/network-intrusion-detection-using-machine-learning",
       "demo": "https://github.com/SAARTH4555/network-intrusion-detection-using-machine-learning"
     },
     {
-      "title": "soc-automation-lab",
-      "description": "Full-featured application built as a learning exercise",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
+      "title": "SOC Automation Lab",
+      "description": "An automated Security Operations Center workflow built on virtual machines with open-source tools — Wazuh for detection, TheHive for case management, and Shuffle for orchestration — to detect, enrich (VirusTotal), and respond to incidents such as Mimikatz activity with real-time alerting.",
+      "technologies": [
+        "Wazuh",
+        "TheHive",
+        "Shuffle",
+        "SOAR",
+        "VirusTotal"
+      ],
+      "icon": "fas fa-shield-halved",
       "image": "",
       "github": "https://github.com/SAARTH4555/soc-automation-lab",
       "demo": "https://github.com/SAARTH4555/soc-automation-lab"
