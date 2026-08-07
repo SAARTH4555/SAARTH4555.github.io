@@ -34,6 +34,102 @@
       "demo": "https://github.com/SAARTH4555/retail_insights"
     },
     {
+      "title": "Sales Insights — Tableau & SQL",
+      "description": "Business-intelligence analysis for an India-based hardware company: built SQL ETL mappings to extract and stage data for cleaning, designed a star-schema data model, and delivered a Tableau dashboard surfacing the parameters driving company performance and data-driven business decisions.",
+      "technologies": [
+        "SQL",
+        "MySQL",
+        "Tableau",
+        "Power BI",
+        "Excel",
+        "Star Schema"
+      ],
+      "icon": "fas fa-chart-column",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/sales-insights-data-analysis-using-tableau-and-sql",
+      "demo": "https://github.com/SAARTH4555/sales-insights-data-analysis-using-tableau-and-sql"
+    },
+    {
+      "title": "Supply Chain Analysis — FMCG (AtliQ Mart)",
+      "description": "Supply-chain service-level analysis for FMCG manufacturer AtliQ Mart: built Power BI metrics for On-Time (OT%), In-Full (IF%), and On-Time-In-Full (OTIF%) delivery performance against per-customer targets, with a stakeholder dashboard and additional insights to help fix service issues before market expansion.",
+      "technologies": [
+        "Power BI",
+        "DAX",
+        "Data Modeling",
+        "Supply Chain Analytics"
+      ],
+      "icon": "fas fa-truck-fast",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
+      "demo": "https://app.powerbi.com/view?r=eyJrIjoiOWFkMDVkZGQtMWFhOS00NjBhLThmZGMtYTFiNThlMGNiZjZlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
+    },
+    {
+      "title": "Uber Trip Analysis — Power BI",
+      "description": "Power BI dashboard analyzing a month of Uber trip data — total bookings, booking value, trip distance and time — across Overview, Time-Series, and Details views to reveal booking trends, customer behavior, revenue generation, and operational efficiency.",
+      "technologies": [
+        "Power BI",
+        "DAX",
+        "Data Visualization"
+      ],
+      "icon": "fas fa-car",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/uber-trip-analysis",
+      "demo": "https://github.com/SAARTH4555/uber-trip-analysis"
+    },
+    {
+      "title": "F1 Data Analysis — SQL & Tableau",
+      "description": "Formula 1 analytics spanning 1953–2020: a relational SQL database of race results, driver and team statistics, and circuit details, queried for performance and historical-trend insights and visualized through interactive Tableau dashboards.",
+      "technologies": [
+        "SQL",
+        "Tableau",
+        "Data Modeling"
+      ],
+      "icon": "fas fa-flag-checkered",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/f1-data-analysis",
+      "demo": "https://github.com/SAARTH4555/f1-data-analysis"
+    },
+    {
+      "title": "Healthcare Data Analysis — Power BI",
+      "description": "Interactive Power BI dashboard on hospital visitor data using DAX and Power Query to surface patient demographics and service-usage KPIs, supporting resource optimization and improved patient-care quality through business intelligence.",
+      "technologies": [
+        "Power BI",
+        "DAX",
+        "Power Query",
+        "Data Modeling"
+      ],
+      "icon": "fas fa-hospital",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/healthcare-data-analysis-using-powerbi",
+      "demo": "https://github.com/SAARTH4555/healthcare-data-analysis-using-powerbi"
+    },
+    {
+      "title": "U.S. Healthcare Industry Analysis — Power BI",
+      "description": "Multi-page Power BI analysis of U.S. healthcare industry dynamics from 2019 to 2020, presenting industry KPIs and insights across the evolving healthcare landscape through an interactive published dashboard.",
+      "technologies": [
+        "Power BI",
+        "DAX",
+        "Data Visualization"
+      ],
+      "icon": "fas fa-heart-pulse",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/us-healthcare-analysis-powerbi",
+      "demo": "https://app.powerbi.com/links/x_BEXo8_4A?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare&bookmarkGuid=ef4fde42-5ed7-4a3a-b773-200d74946dec"
+    },
+    {
+      "title": "SQL for Financial Data Analysis",
+      "description": "A SQL-based financial reporting and analysis system over five datasets — general ledger, chart of accounts, territory, calendar, and cash flow — generating Profit & Loss statements, Balance Sheets, and Cash Flow statements through pivot-style reporting queries.",
+      "technologies": [
+        "SQL",
+        "Azure Data Studio",
+        "Financial Reporting"
+      ],
+      "icon": "fas fa-file-invoice-dollar",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/sql-for-financial-data-analysis",
+      "demo": "https://github.com/SAARTH4555/sql-for-financial-data-analysis"
+    },
+    {
       "title": "Finances Database",
       "description": "Personal-finance analytics project that builds a SQL database from raw transactions, layers reporting views on top, and surfaces spending and cash-flow trends in a dashboard.",
       "technologies": [
@@ -48,84 +144,6 @@
       "demo": "https://github.com/SAARTH4555/finances-database"
     },
     {
-      "title": "Data Pipeline with dbt, Airflow & GCP",
-      "description": "Automated data pipeline that ingests incoming data into BigQuery using Airflow DAGs, models it into a star schema with dbt, runs Soda data-quality checks, and reports through Metabase — orchestrated with Astronomer on Google Cloud Platform.",
-      "technologies": [
-        "Airflow",
-        "dbt",
-        "BigQuery",
-        "Soda",
-        "Metabase",
-        "GCP",
-        "Docker"
-      ],
-      "icon": "fas fa-project-diagram",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/data-pipeline-with-dbt-using-airflow-on-gcp",
-      "demo": "https://github.com/SAARTH4555/data-pipeline-with-dbt-using-airflow-on-gcp"
-    },
-    {
-      "title": "Extracting Structured Data from PDFs",
-      "description": "A Retrieval-Augmented Generation (RAG) application that uses LLMs to extract structured fields — title, authors, summary, publication year — from research-paper PDFs, with a Streamlit interface and Docker containerization for deployment.",
-      "technologies": [
-        "Python",
-        "LangChain",
-        "OpenAI",
-        "RAG",
-        "Streamlit",
-        "Docker"
-      ],
-      "icon": "fas fa-file-lines",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/extracting-structured-data-from-pdfs",
-      "demo": "https://github.com/SAARTH4555/extracting-structured-data-from-pdfs"
-    },
-    {
-      "title": "E-Commerce Lakehouse (Medallion)",
-      "description": "An e-commerce lakehouse on Databricks and Delta Lake implementing a Bronze → Silver → Gold medallion architecture, with change-data-capture ingestion, SCD Type 2 history tracking, and customer segmentation served to BI/analytics.",
-      "technologies": [
-        "Databricks",
-        "Delta Lake",
-        "PySpark",
-        "Medallion Architecture",
-        "SQL"
-      ],
-      "icon": "fas fa-layer-group",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/ecommerce-lakehouse-medallion",
-      "demo": "https://github.com/SAARTH4555/ecommerce-lakehouse-medallion"
-    },
-    {
-      "title": "End-to-End Data Engineering System",
-      "description": "An end-to-end streaming pipeline that streams data from an API into a Kafka topic, processes it with Spark into PostgreSQL, and orchestrates the streaming and Spark jobs with Airflow — all built and run with Docker Compose.",
-      "technologies": [
-        "Kafka",
-        "Spark",
-        "Airflow",
-        "PostgreSQL",
-        "Docker"
-      ],
-      "icon": "fas fa-project-diagram",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/data-engineering-project",
-      "demo": "https://github.com/SAARTH4555/data-engineering-project"
-    },
-    {
-      "title": "Sentinel — SOC Log Analytics",
-      "description": "A defensive, blue-team SOC log-analytics pipeline that ingests normalized security events, runs rule-based detections mapped to MITRE ATT&CK techniques alongside an unsupervised ML anomaly detector, scores detection quality against ground truth, and presents it in a Streamlit SOC console.",
-      "technologies": [
-        "Python",
-        "Machine Learning",
-        "MITRE ATT&CK",
-        "Streamlit",
-        "Docker"
-      ],
-      "icon": "fas fa-shield-halved",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/sentinel",
-      "demo": "https://github.com/SAARTH4555/sentinel"
-    },
-    {
       "title": "Log Analysis & Anomaly Detection",
       "description": "A log-analysis and anomaly-detection system that parses logs with regular expressions, extracts features, and uses an Isolation Forest model to flag unusual patterns that may indicate security threats, with real-time monitoring and visualization.",
       "technologies": [
@@ -138,35 +156,6 @@
       "image": "",
       "github": "https://github.com/SAARTH4555/log-analysis-anomaly-detection",
       "demo": "https://github.com/SAARTH4555/log-analysis-anomaly-detection"
-    },
-    {
-      "title": "Network Intrusion Detection (Deep Learning)",
-      "description": "A network intrusion detection system based on the NSL-KDD dataset that uses autoencoders together with KNN and LDA models to perform binary and multi-class classification of network attacks, loosely based on published research.",
-      "technologies": [
-        "Python",
-        "Deep Learning",
-        "Autoencoders",
-        "scikit-learn"
-      ],
-      "icon": "fas fa-network-wired",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/network-intrusion-detection-using-machine-learning",
-      "demo": "https://github.com/SAARTH4555/network-intrusion-detection-using-machine-learning"
-    },
-    {
-      "title": "SOC Automation Lab",
-      "description": "An automated Security Operations Center workflow built on virtual machines with open-source tools — Wazuh for detection, TheHive for case management, and Shuffle for orchestration — to detect, enrich (VirusTotal), and respond to incidents such as Mimikatz activity with real-time alerting.",
-      "technologies": [
-        "Wazuh",
-        "TheHive",
-        "Shuffle",
-        "SOAR",
-        "VirusTotal"
-      ],
-      "icon": "fas fa-shield-halved",
-      "image": "",
-      "github": "https://github.com/SAARTH4555/soc-automation-lab",
-      "demo": "https://github.com/SAARTH4555/soc-automation-lab"
     }
   ]
 }
