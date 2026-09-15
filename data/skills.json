@@ -2,33 +2,50 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Programming Languages",
+      "category": "Programming & Querying",
       "icon": "fas fa-code",
       "skills": [
         "Python",
-        "NumPy",
         "Pandas",
+        "NumPy",
         "SQL",
         "JOINs",
         "CTEs",
-        "Subqueries"
+        "Subqueries",
+        "Teradata SQL"
       ]
     },
     {
-      "category": "Tools & Platforms",
-      "icon": "fas fa-wrench",
+      "category": "BI & Reporting",
+      "icon": "fas fa-chart-bar",
       "skills": [
         "Power BI",
         "Tableau",
         "Looker",
-        "PowerPoint",
         "Excel",
         "Pivot Tables",
         "Power Query",
         "XLOOKUP",
-        "SAP",
+        "PowerPoint"
+      ]
+    },
+    {
+      "category": "Data Management",
+      "icon": "fas fa-database",
+      "skills": [
+        "ETL/ELT",
+        "Data Modeling",
+        "Data Mapping",
+        "Data Quality",
         "PostgreSQL",
         "Snowflake",
+        "SAP"
+      ]
+    },
+    {
+      "category": "Cloud & Analytics",
+      "icon": "fas fa-cloud",
+      "skills": [
         "AWS",
         "Google Analytics",
         "Microsoft Power Automate",
@@ -36,17 +53,15 @@
       ]
     },
     {
-      "category": "Technical Skills",
-      "icon": "fas fa-laptop-code",
+      "category": "Business Analysis",
+      "icon": "fas fa-clipboard-check",
       "skills": [
-        "Data Modeling",
-        "Data Mapping",
         "Requirements Gathering",
         "JAD Sessions",
         "UAT",
         "Gap Analysis",
-        "Project Management",
-        "ETL/ELT"
+        "Traceability Matrices",
+        "Project Management"
       ]
     }
   ]

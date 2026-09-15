@@ -2,14 +2,15 @@
   "sectionTitle": "Featured Projects",
   "projects": [
     {
-      "title": "Healthcare Claims Data Warehouse, ETL Mapping",
-      "description": "Designed a Medicare claims data warehouse consolidating source systems and file specifications, building ETL mappings and BI report specifications that reduced requirements validation effort by 40% across a 4-sprint Agile project management cycle.\nAchieved zero critical defects at UAT sign-off by authoring test plans and traceability matrices across 130+ source-to-target fields, validated through SQL-based test data creation and verification queries.\nGathered business and technical requirements across data subject areas by leading structured requirements workshops, analyzing entity relationship diagrams and database models to produce a phased ETL work breakdown structure.",
+      "title": "Healthcare Claims Data Warehouse and ETL Mapping",
+      "description": "Architected a Medicare claims data warehouse consolidating source systems and file specifications, building ETL mappings and BI report specifications that reduced requirements validation effort by 40% across a 4-sprint Agile cycle.\nAuthored test plans and traceability matrices covering 130+ source-to-target fields, validated through SQL-based test data creation and verification queries, reaching UAT sign-off with zero critical defects.\nFacilitated structured requirements workshops across data subject areas, analyzing entity relationship diagrams and database models to produce a phased ETL work breakdown structure.",
       "technologies": [
-        "ETL",
-        "BI",
-        "Agile",
-        "UAT",
         "SQL",
+        "ETL Mapping",
+        "Data Warehouse",
+        "Traceability Matrices",
+        "UAT",
+        "Agile",
         "ERD"
       ],
       "icon": "fas fa-project-diagram",

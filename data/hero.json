@@ -1,8 +1,8 @@
 {
   "greeting": "Hi, I'm",
   "name": "SAARTH SHETTY",
-  "title": "Business Analyst",
-  "summary": "Business Analyst with 3+ years translating complex operational and financial data into decision-ready narratives for executive and cross-functional stakeholders.",
+  "title": "Data Analyst",
+  "summary": "Data Analyst with 3+ years of experience turning operational and financial data into reporting business teams rely on. Skilled in SQL, Python, and Power BI across ETL development, dashboard design, data quality validation, and requirements gathering. Delivered a self-service Power BI dashboard that cut reporting turnaround 25% and Python ETL pipelines that reduced manual processing effort 40%.",
   "avatarUrl": "assets/img/profile.png",
   "highlights": [
     {
@@ -42,7 +42,7 @@
     },
     {
       "platform": "Email",
-      "url": "mailto:saarthshetty98@gmail.com",
+      "url": "mailto:saarthshetty1@gmail.com",
       "icon": "fas fa-envelope"
     }
   ]
