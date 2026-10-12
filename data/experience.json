@@ -6,13 +6,13 @@
       "company": "University of Texas at Dallas",
       "logo": "assets/img/logos/ut-dallas.svg",
       "period": "Jun 2026 - Present",
-      "location": "",
-      "description": "Analyzed website traffic, user engagement, and conversion funnels using Google Analytics 4 (GA4), combining campaign performance data with Power BI dashboards to identify drop-off points and optimize marketing reporting\nDeveloped self-service Power BI and Tableau dashboards on multi-source data that track KPIs across 5+ reporting workflows, replacing manual report preparation\nShortened reporting turnaround 25% by leading requirements workshops that aligned stakeholders on KPI definitions, then converting them into Power BI report specifications\nEstablished end-to-end metric traceability by auditing data sources and documenting each dashboard's lineage",
+      "location": "Dallas, TX",
+      "description": "Improved marketing reporting efficiency by 45% by analyzing website traffic, engagement, and conversion funnels in GA4 and HubSpot, then building Power BI dashboards that pinpointed funnel drop-off points\nEnriched and segmented inbound leads with Clay and HubSpot workflows, syncing enriched fields into reporting to track lead-to-opportunity conversion and lifting lead data completeness by 60% for sharper targeting\nEngineered self-service Power BI and Tableau dashboards on multi-source data across 5+ reporting workflows, replacing manual report prep and documenting each dashboard's data lineage for end-to-end metric traceability\nShortened reporting turnaround by 25% by leading requirements workshops that aligned stakeholders on metric definitions, then translating them into clear, build-ready Power BI report specifications",
       "responsibilities": [
-        "Analyzed website traffic, user engagement, and conversion funnels using Google Analytics 4 (GA4), combining campaign performance data with Power BI dashboards to identify drop-off points and optimize marketing reporting",
-        "Developed self-service Power BI and Tableau dashboards on multi-source data that track KPIs across 5+ reporting workflows, replacing manual report preparation",
-        "Shortened reporting turnaround 25% by leading requirements workshops that aligned stakeholders on KPI definitions, then converting them into Power BI report specifications",
-        "Established end-to-end metric traceability by auditing data sources and documenting each dashboard's lineage"
+        "Improved marketing reporting efficiency by 45% by analyzing website traffic, engagement, and conversion funnels in GA4 and HubSpot, then building Power BI dashboards that pinpointed funnel drop-off points",
+        "Enriched and segmented inbound leads with Clay and HubSpot workflows, syncing enriched fields into reporting to track lead-to-opportunity conversion and lifting lead data completeness by 60% for sharper targeting",
+        "Engineered self-service Power BI and Tableau dashboards on multi-source data across 5+ reporting workflows, replacing manual report prep and documenting each dashboard's data lineage for end-to-end metric traceability",
+        "Shortened reporting turnaround by 25% by leading requirements workshops that aligned stakeholders on metric definitions, then translating them into clear, build-ready Power BI report specifications"
       ]
     },
     {
@@ -20,13 +20,13 @@
       "company": "Resilient Privacy",
       "logo": "assets/img/logos/resilient-privacy.svg",
       "period": "Jan 2025 - May 2026",
-      "location": "",
-      "description": "Cut manual data processing effort 40% by engineering Python (Pandas) ETL pipelines with automated data-cleansing logic across 5+ production environments\nBuilt reusable Python frameworks that reconcile data issues across systems, lowering downstream escalations\nCaught schema issues before production by running end-to-end UAT on data products and validating schemas against documented business requirements\nAutomated lead enrichment and prospect segmentation workflows using Clay, Apollo, and HubSpot, integrating CRM data with Python and SQL pipelines to improve lead data quality and support targeted sales outreach",
+      "location": "Remote",
+      "description": "Cut manual data processing effort by 40% by engineering Python (Pandas) ETL pipelines with automated data-cleansing logic that kept data accurate and consistent across 5+ production environments\nPowered targeted sales outreach by automating lead enrichment and prospect segmentation with Apollo, Python, and SQL, orchestrating n8n and REST API workflows that pushed scored accounts into the CRM\nSlashed manual lead triage by 50% by designing and tuning OpenAI API prompt workflows that classify and route inbound leads by intent and firmographic fit, getting high-value accounts to sales faster\nLowered downstream escalations by 25% by building reusable Python frameworks that reconcile data discrepancies across systems and running end-to-end UAT on data products to catch schema issues before release",
       "responsibilities": [
-        "Cut manual data processing effort 40% by engineering Python (Pandas) ETL pipelines with automated data-cleansing logic across 5+ production environments",
-        "Built reusable Python frameworks that reconcile data issues across systems, lowering downstream escalations",
-        "Caught schema issues before production by running end-to-end UAT on data products and validating schemas against documented business requirements",
-        "Automated lead enrichment and prospect segmentation workflows using Clay, Apollo, and HubSpot, integrating CRM data with Python and SQL pipelines to improve lead data quality and support targeted sales outreach"
+        "Cut manual data processing effort by 40% by engineering Python (Pandas) ETL pipelines with automated data-cleansing logic that kept data accurate and consistent across 5+ production environments",
+        "Powered targeted sales outreach by automating lead enrichment and prospect segmentation with Apollo, Python, and SQL, orchestrating n8n and REST API workflows that pushed scored accounts into the CRM",
+        "Slashed manual lead triage by 50% by designing and tuning OpenAI API prompt workflows that classify and route inbound leads by intent and firmographic fit, getting high-value accounts to sales faster",
+        "Lowered downstream escalations by 25% by building reusable Python frameworks that reconcile data discrepancies across systems and running end-to-end UAT on data products to catch schema issues before release"
       ]
     },
     {
@@ -34,12 +34,12 @@
       "company": "Redbytes Software Pvt Ltd",
       "logo": "assets/img/logos/redbytes.svg",
       "period": "Jan 2023 - May 2024",
-      "location": "",
-      "description": "Reduced data pipeline errors 20% by analyzing ERDs and database models to develop Teradata SQL ETL mappings\nStandardized KPI tracking across 3+ business units with Power BI dashboards built on defined metric logic and data-quality controls\nTranslated functional requirements from business and technical stakeholders into data products using PostgreSQL, Python data-cleansing pipelines, and Tableau, enabling more consistent data analysis and stakeholder reporting",
+      "location": "India",
+      "description": "Reduced data pipeline errors by 20% by analyzing ERDs and database models to develop Teradata SQL ETL mappings that traced every source field to its target table, giving analysts dependable data for growth reporting\nStandardized growth tracking across 3+ business units with Power BI dashboards built on defined metric logic and data-quality controls, then surfaced upsell targets via funnel, cohort, and RFM analyses on Salesforce data\nTranslated stakeholder requirements into data products with PostgreSQL, Python cleansing pipelines, and Tableau, then automated report refreshes through Zapier and Power Automate, cutting manual effort by 60%",
       "responsibilities": [
-        "Reduced data pipeline errors 20% by analyzing ERDs and database models to develop Teradata SQL ETL mappings",
-        "Standardized KPI tracking across 3+ business units with Power BI dashboards built on defined metric logic and data-quality controls",
-        "Translated functional requirements from business and technical stakeholders into data products using PostgreSQL, Python data-cleansing pipelines, and Tableau, enabling more consistent data analysis and stakeholder reporting"
+        "Reduced data pipeline errors by 20% by analyzing ERDs and database models to develop Teradata SQL ETL mappings that traced every source field to its target table, giving analysts dependable data for growth reporting",
+        "Standardized growth tracking across 3+ business units with Power BI dashboards built on defined metric logic and data-quality controls, then surfaced upsell targets via funnel, cohort, and RFM analyses on Salesforce data",
+        "Translated stakeholder requirements into data products with PostgreSQL, Python cleansing pipelines, and Tableau, then automated report refreshes through Zapier and Power Automate, cutting manual effort by 60%"
       ]
     }
   ]

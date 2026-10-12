@@ -2,11 +2,12 @@
   "sectionTitle": "Featured Projects",
   "projects": [
     {
-      "title": "Vuln Priority Engine — Risk-Based Prioritization",
-      "description": "A FastAPI service that ingests scanner output (Trivy JSON or CVE CSV exports), enriches every finding with CVSS severity, EPSS exploit probability, CISA KEV status, and asset criticality, and fuses those signals into one tunable 0–100 risk score. Weights and thresholds live in a YAML policy, and findings land in a prioritized remediation queue with SLA deadlines — the same weighted-signal scoring pattern behind lead and account prioritization.",
+      "title": "Vuln Priority Engine — Scoring & API",
+      "description": "A multi-signal scoring model in Python that blends four enrichment signals (CVSS severity, EPSS exploit likelihood, CISA KEV threat flags, and asset value) into one tunable priority score, mirroring lead and upsell scoring. Scored records are tiered into an SLA-bucketed queue served through a FastAPI REST API that CRM and automation workflows can call, backed by 68 automated tests.",
       "technologies": [
         "Python",
         "FastAPI",
+        "REST API",
         "SQLAlchemy",
         "Pydantic",
         "pytest",
@@ -18,15 +19,14 @@
       "demo": "https://github.com/SAARTH4555/vuln-priority-engine"
     },
     {
-      "title": "Sentinel Triage — LLM-Powered Alert Triage",
-      "description": "An LLM-in-the-loop workflow that correlates authentication events into candidate incidents, matches them against Sigma rules mapped to MITRE ATT&CK, and has an LLM summarize each incident with a confidence-scored severity. Every log line the model cites is checked against the real events, so hallucinated evidence is rejected. An evaluation harness reports precision, recall, F1, and false-positive rate on a labeled dataset.",
+      "title": "Sentinel Triage — LLM Workflow",
+      "description": "An LLM-assisted triage workflow that groups incoming events into 15-minute windows, scores severity with detection rules and an LLM, and routes prioritized results to a review queue, mirroring inbound lead routing. Every log line the model cites is checked against the real events. Validated on 388 labeled events at 1.0 precision, 0.83 recall, and 0.91 F1.",
       "technologies": [
         "Python",
         "OpenAI API",
         "LLM Workflows",
-        "OpenSearch",
         "Redis Streams",
-        "SQLite",
+        "OpenSearch",
         "pytest"
       ],
       "icon": "fas fa-robot",

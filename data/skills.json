@@ -2,19 +2,18 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Data & SQL",
+      "category": "Data & Modeling",
       "icon": "fas fa-database",
       "skills": [
         "SQL",
         "CTEs",
-        "Joins",
         "Window Functions",
         "Python (Pandas)",
         "PostgreSQL",
         "Snowflake",
-        "Teradata",
         "dbt",
-        "ETL Pipelines"
+        "ETL",
+        "Data Reconciliation"
       ]
     },
     {
@@ -25,62 +24,42 @@
         "DAX",
         "Power Query",
         "Tableau",
-        "Google Analytics (GA4)",
-        "KPI Dashboards",
-        "Data Visualization",
-        "Excel"
+        "GA4"
       ]
     },
     {
-      "category": "GTM Tools & Automation",
-      "icon": "fas fa-gears",
-      "skills": [
-        "Salesforce",
-        "HubSpot",
-        "Clay",
-        "Apollo",
-        "Zapier",
-        "Make",
-        "Power Automate",
-        "REST APIs"
-      ]
-    },
-    {
-      "category": "Customer & Revenue Analytics",
+      "category": "Revenue Analytics",
       "icon": "fas fa-chart-line",
       "skills": [
-        "Segmentation",
-        "RFM",
-        "Cohort Analysis",
-        "Funnel Analysis",
-        "Conversion Analysis",
-        "Retention Analysis",
+        "RFM Segmentation",
+        "Cohort Retention",
+        "Funnel Conversion",
         "Upsell Targeting"
       ]
     },
     {
-      "category": "Data Quality & Business Analysis",
-      "icon": "fas fa-clipboard-check",
+      "category": "GTM Stack",
+      "icon": "fas fa-bullseye",
       "skills": [
-        "Data Cleansing",
-        "Validation",
-        "Reconciliation",
-        "UAT",
-        "Requirements Gathering"
+        "Salesforce",
+        "HubSpot",
+        "Apollo",
+        "Clay"
       ]
     },
     {
-      "category": "AI & Intelligent Automation",
+      "category": "Automation & AI",
       "icon": "fas fa-robot",
       "skills": [
-        "Generative AI",
+        "n8n",
+        "Zapier",
+        "Make",
+        "Power Automate",
+        "REST APIs",
         "OpenAI API",
         "Prompt Engineering",
-        "LLM-Powered Workflows",
-        "AI Lead Enrichment",
-        "n8n",
-        "CRM Automation",
-        "AI-Assisted Data Analytics"
+        "LLM Workflows",
+        "AI Lead Enrichment"
       ]
     }
   ]
