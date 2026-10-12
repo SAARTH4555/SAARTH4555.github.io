@@ -2,66 +2,85 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Programming & Querying",
-      "icon": "fas fa-code",
+      "category": "Data & SQL",
+      "icon": "fas fa-database",
       "skills": [
-        "Python",
-        "Pandas",
-        "NumPy",
         "SQL",
-        "JOINs",
         "CTEs",
-        "Subqueries",
-        "Teradata SQL"
+        "Joins",
+        "Window Functions",
+        "Python (Pandas)",
+        "PostgreSQL",
+        "Snowflake",
+        "Teradata",
+        "dbt",
+        "ETL Pipelines"
       ]
     },
     {
-      "category": "BI & Reporting",
+      "category": "BI & Web Analytics",
       "icon": "fas fa-chart-bar",
       "skills": [
         "Power BI",
-        "Tableau",
-        "Looker",
-        "Excel",
-        "Pivot Tables",
+        "DAX",
         "Power Query",
-        "XLOOKUP",
-        "PowerPoint"
+        "Tableau",
+        "Google Analytics (GA4)",
+        "KPI Dashboards",
+        "Data Visualization",
+        "Excel"
       ]
     },
     {
-      "category": "Data Management",
-      "icon": "fas fa-database",
+      "category": "GTM Tools & Automation",
+      "icon": "fas fa-gears",
       "skills": [
-        "ETL/ELT",
-        "Data Modeling",
-        "Data Mapping",
-        "Data Quality",
-        "PostgreSQL",
-        "Snowflake",
-        "SAP"
+        "Salesforce",
+        "HubSpot",
+        "Clay",
+        "Apollo",
+        "Zapier",
+        "Make",
+        "Power Automate",
+        "REST APIs"
       ]
     },
     {
-      "category": "Cloud & Analytics",
-      "icon": "fas fa-cloud",
+      "category": "Customer & Revenue Analytics",
+      "icon": "fas fa-chart-line",
       "skills": [
-        "AWS",
-        "Google Analytics",
-        "Microsoft Power Automate",
-        "Microsoft Office Suite"
+        "Segmentation",
+        "RFM",
+        "Cohort Analysis",
+        "Funnel Analysis",
+        "Conversion Analysis",
+        "Retention Analysis",
+        "Upsell Targeting"
       ]
     },
     {
-      "category": "Business Analysis",
+      "category": "Data Quality & Business Analysis",
       "icon": "fas fa-clipboard-check",
       "skills": [
-        "Requirements Gathering",
-        "JAD Sessions",
+        "Data Cleansing",
+        "Validation",
+        "Reconciliation",
         "UAT",
-        "Gap Analysis",
-        "Traceability Matrices",
-        "Project Management"
+        "Requirements Gathering"
+      ]
+    },
+    {
+      "category": "AI & Intelligent Automation",
+      "icon": "fas fa-robot",
+      "skills": [
+        "Generative AI",
+        "OpenAI API",
+        "Prompt Engineering",
+        "LLM-Powered Workflows",
+        "AI Lead Enrichment",
+        "n8n",
+        "CRM Automation",
+        "AI-Assisted Data Analytics"
       ]
     }
   ]

@@ -7,11 +7,15 @@
   "links": [
     {
       "text": "LinkedIn",
-      "url": "http://www.linkedin.com/in/saarth-shetty"
+      "url": "https://www.linkedin.com/in/saarth-shetty/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/SAARTH4555"
     },
     {
       "text": "Email",
-      "url": "mailto:saarthshetty1@gmail.com"
+      "url": "mailto:saarthshetty12@gmail.com"
     }
   ]
 }

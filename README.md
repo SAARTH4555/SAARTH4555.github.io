@@ -1,17 +1,17 @@
 # saarthshetty.com
 
-Portfolio website for **Saarth Shetty**, Data Analyst based in Dallas, TX.
+Portfolio website for **Saarth Shetty**, GTM & Marketing Data Analyst based in Dallas, TX.
 
 **Live site:** [saarthshetty.com](https://saarthshetty.com)
 
 ## About
 
-Data Analyst with 3+ years of experience in SQL, Python, and Power BI across ETL development, dashboard design, data quality validation, and requirements gathering. M.S. in IT and Management from The University of Texas at Dallas.
+GTM & Marketing Data Analyst specializing in revenue analytics, business intelligence, and workflow automation using Python, SQL, Power BI, and CRM tools. M.S. in Information Technology and Management from The University of Texas at Dallas.
 
 ## Sections
 
 - About and summary
-- Professional experience: Resilient Privacy, UT Dallas, Redbytes Software, Bucket List Holidays
+- Professional experience: UT Dallas, Resilient Privacy, Redbytes Software
 - Skills and technologies
 - Featured projects with links to GitHub repositories and live dashboards
 - Education and certifications
@@ -31,6 +31,6 @@ Then open http://localhost:8000.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/saarth-shetty)
-- [Email](mailto:saarthshetty1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/saarth-shetty/)
+- [Email](mailto:saarthshetty12@gmail.com)
 - [GitHub](https://github.com/SAARTH4555)

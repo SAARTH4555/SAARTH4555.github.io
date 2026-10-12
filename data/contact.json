@@ -5,8 +5,8 @@
       "type": "email",
       "icon": "fas fa-envelope",
       "label": "Email",
-      "value": "saarthshetty1@gmail.com",
-      "href": "mailto:saarthshetty1@gmail.com"
+      "value": "saarthshetty12@gmail.com",
+      "href": "mailto:saarthshetty12@gmail.com"
     },
     {
       "type": "phone",
@@ -27,7 +27,14 @@
       "icon": "fab fa-linkedin",
       "label": "LinkedIn",
       "value": "saarth-shetty",
-      "href": "http://www.linkedin.com/in/saarth-shetty"
+      "href": "https://www.linkedin.com/in/saarth-shetty/"
+    },
+    {
+      "type": "github",
+      "icon": "fab fa-github",
+      "label": "GitHub",
+      "value": "SAARTH4555",
+      "href": "https://github.com/SAARTH4555"
     }
   ],
   "form": {

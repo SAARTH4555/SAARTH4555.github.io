@@ -2,6 +2,39 @@
   "sectionTitle": "Featured Projects",
   "projects": [
     {
+      "title": "Vuln Priority Engine — Risk-Based Prioritization",
+      "description": "A FastAPI service that ingests scanner output (Trivy JSON or CVE CSV exports), enriches every finding with CVSS severity, EPSS exploit probability, CISA KEV status, and asset criticality, and fuses those signals into one tunable 0–100 risk score. Weights and thresholds live in a YAML policy, and findings land in a prioritized remediation queue with SLA deadlines — the same weighted-signal scoring pattern behind lead and account prioritization.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "SQLAlchemy",
+        "Pydantic",
+        "pytest",
+        "Docker"
+      ],
+      "icon": "fas fa-shield-halved",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/vuln-priority-engine",
+      "demo": "https://github.com/SAARTH4555/vuln-priority-engine"
+    },
+    {
+      "title": "Sentinel Triage — LLM-Powered Alert Triage",
+      "description": "An LLM-in-the-loop workflow that correlates authentication events into candidate incidents, matches them against Sigma rules mapped to MITRE ATT&CK, and has an LLM summarize each incident with a confidence-scored severity. Every log line the model cites is checked against the real events, so hallucinated evidence is rejected. An evaluation harness reports precision, recall, F1, and false-positive rate on a labeled dataset.",
+      "technologies": [
+        "Python",
+        "OpenAI API",
+        "LLM Workflows",
+        "OpenSearch",
+        "Redis Streams",
+        "SQLite",
+        "pytest"
+      ],
+      "icon": "fas fa-robot",
+      "image": "",
+      "github": "https://github.com/SAARTH4555/sentinel-triage",
+      "demo": "https://github.com/SAARTH4555/sentinel-triage"
+    },
+    {
       "title": "Healthcare Claims Data Warehouse and ETL Mapping",
       "description": "Architected a Medicare claims data warehouse consolidating source systems and file specifications, building ETL mappings and BI report specifications that reduced requirements validation effort by 40% across a 4-sprint Agile cycle.\nAuthored test plans and traceability matrices covering 130+ source-to-target fields, validated through SQL-based test data creation and verification queries, reaching UAT sign-off with zero critical defects.\nFacilitated structured requirements workshops across data subject areas, analyzing entity relationship diagrams and database models to produce a phased ETL work breakdown structure.",
       "technologies": [

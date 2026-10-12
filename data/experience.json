@@ -2,54 +2,44 @@
   "sectionTitle": "Professional Experience",
   "experiences": [
     {
-      "title": "Data Analyst",
-      "company": "Resilient Privacy",
-      "logo": "assets/img/logos/resilient-privacy.svg",
-      "period": "Jan 2026 - May 2026",
-      "location": "",
-      "description": "Engineered Python ETL pipelines with automated data cleansing logic across 5+ production environments, reducing manual data processing effort by 40% and improving the accuracy of downstream operational reporting\nBuilt reusable Python frameworks to query, reconcile, and resolve cross-system data quality issues, improving pipeline output reliability by 35% and reducing escalations from data consumers\nRan end-to-end User Acceptance Testing on data products, validating schemas against documented business requirements and eliminating downstream data inconsistencies before release",
-      "responsibilities": [
-        "Engineered Python ETL pipelines with automated data cleansing logic across 5+ production environments, reducing manual data processing effort by 40% and improving the accuracy of downstream operational reporting",
-        "Built reusable Python frameworks to query, reconcile, and resolve cross-system data quality issues, improving pipeline output reliability by 35% and reducing escalations from data consumers",
-        "Ran end-to-end User Acceptance Testing on data products, validating schemas against documented business requirements and eliminating downstream data inconsistencies before release"
-      ]
-    },
-    {
-      "title": "Marketing and Data Analyst",
+      "title": "Marketing Operations Analyst (GTM)",
       "company": "University of Texas at Dallas",
       "logo": "assets/img/logos/ut-dallas.svg",
-      "period": "Jan 2025 - Jan 2026",
+      "period": "Jun 2026 - Present",
       "location": "",
-      "description": "Developed self-service Power BI and Tableau dashboards on multi-source datasets, enabling real-time KPI tracking across 5+ reporting workflows and replacing manual report preparation for operations and leadership teams\nLed stakeholder JAD sessions to align cross-functional teams on KPI definitions, then translated the agreed requirements into Power BI report specifications, reducing reporting turnaround by 25%\nAudited data sources for gaps and documented lineage and reporting logic behind each dashboard, improving analytics infrastructure efficiency by 30% and making published metrics traceable to their source",
+      "description": "Analyzed website traffic, user engagement, and conversion funnels using Google Analytics 4 (GA4), combining campaign performance data with Power BI dashboards to identify drop-off points and optimize marketing reporting\nDeveloped self-service Power BI and Tableau dashboards on multi-source data that track KPIs across 5+ reporting workflows, replacing manual report preparation\nShortened reporting turnaround 25% by leading requirements workshops that aligned stakeholders on KPI definitions, then converting them into Power BI report specifications\nEstablished end-to-end metric traceability by auditing data sources and documenting each dashboard's lineage",
       "responsibilities": [
-        "Developed self-service Power BI and Tableau dashboards on multi-source datasets, enabling real-time KPI tracking across 5+ reporting workflows and replacing manual report preparation for operations and leadership teams",
-        "Led stakeholder JAD sessions to align cross-functional teams on KPI definitions, then translated the agreed requirements into Power BI report specifications, reducing reporting turnaround by 25%",
-        "Audited data sources for gaps and documented lineage and reporting logic behind each dashboard, improving analytics infrastructure efficiency by 30% and making published metrics traceable to their source"
+        "Analyzed website traffic, user engagement, and conversion funnels using Google Analytics 4 (GA4), combining campaign performance data with Power BI dashboards to identify drop-off points and optimize marketing reporting",
+        "Developed self-service Power BI and Tableau dashboards on multi-source data that track KPIs across 5+ reporting workflows, replacing manual report preparation",
+        "Shortened reporting turnaround 25% by leading requirements workshops that aligned stakeholders on KPI definitions, then converting them into Power BI report specifications",
+        "Established end-to-end metric traceability by auditing data sources and documenting each dashboard's lineage"
       ]
     },
     {
-      "title": "Business Analyst",
+      "title": "GTM Engineer",
+      "company": "Resilient Privacy",
+      "logo": "assets/img/logos/resilient-privacy.svg",
+      "period": "Jan 2025 - May 2026",
+      "location": "",
+      "description": "Cut manual data processing effort 40% by engineering Python (Pandas) ETL pipelines with automated data-cleansing logic across 5+ production environments\nBuilt reusable Python frameworks that reconcile data issues across systems, lowering downstream escalations\nCaught schema issues before production by running end-to-end UAT on data products and validating schemas against documented business requirements\nAutomated lead enrichment and prospect segmentation workflows using Clay, Apollo, and HubSpot, integrating CRM data with Python and SQL pipelines to improve lead data quality and support targeted sales outreach",
+      "responsibilities": [
+        "Cut manual data processing effort 40% by engineering Python (Pandas) ETL pipelines with automated data-cleansing logic across 5+ production environments",
+        "Built reusable Python frameworks that reconcile data issues across systems, lowering downstream escalations",
+        "Caught schema issues before production by running end-to-end UAT on data products and validating schemas against documented business requirements",
+        "Automated lead enrichment and prospect segmentation workflows using Clay, Apollo, and HubSpot, integrating CRM data with Python and SQL pipelines to improve lead data quality and support targeted sales outreach"
+      ]
+    },
+    {
+      "title": "Growth Analyst",
       "company": "Redbytes Software Pvt Ltd",
       "logo": "assets/img/logos/redbytes.svg",
       "period": "Jan 2023 - May 2024",
       "location": "",
-      "description": "Analyzed ERDs and database models to develop Teradata SQL-based ETL mappings, identifying process inefficiencies and reducing data pipeline errors by 20%\nDesigned Power BI dashboards with defined metric logic and data quality controls, standardizing operational KPI tracking across 3+ business units and improving reporting accuracy for operations and management teams\nPartnered with technical and business stakeholders to gather functional requirements and translate operational needs into data products, reducing documentation cycle time",
+      "description": "Reduced data pipeline errors 20% by analyzing ERDs and database models to develop Teradata SQL ETL mappings\nStandardized KPI tracking across 3+ business units with Power BI dashboards built on defined metric logic and data-quality controls\nTranslated functional requirements from business and technical stakeholders into data products using PostgreSQL, Python data-cleansing pipelines, and Tableau, enabling more consistent data analysis and stakeholder reporting",
       "responsibilities": [
-        "Analyzed ERDs and database models to develop Teradata SQL-based ETL mappings, identifying process inefficiencies and reducing data pipeline errors by 20%",
-        "Designed Power BI dashboards with defined metric logic and data quality controls, standardizing operational KPI tracking across 3+ business units and improving reporting accuracy for operations and management teams",
-        "Partnered with technical and business stakeholders to gather functional requirements and translate operational needs into data products, reducing documentation cycle time"
-      ]
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Bucket List Holidays",
-      "logo": "assets/img/logos/bucket-list-holidays.svg",
-      "period": "Jan 2022 - Dec 2022",
-      "location": "",
-      "description": "Segmented 5,000+ customers into high-value cohorts using Python analysis of demographic and purchase history data, surfacing upsell opportunities that drove premium package conversions and increased revenue per booking\nMapped booking drop-off points across regional markets and presented conversion diagnostics to leadership, enabling targeted intervention strategies that reduced the trip cancellation rate by 20%",
-      "responsibilities": [
-        "Segmented 5,000+ customers into high-value cohorts using Python analysis of demographic and purchase history data, surfacing upsell opportunities that drove premium package conversions and increased revenue per booking",
-        "Mapped booking drop-off points across regional markets and presented conversion diagnostics to leadership, enabling targeted intervention strategies that reduced the trip cancellation rate by 20%"
+        "Reduced data pipeline errors 20% by analyzing ERDs and database models to develop Teradata SQL ETL mappings",
+        "Standardized KPI tracking across 3+ business units with Power BI dashboards built on defined metric logic and data-quality controls",
+        "Translated functional requirements from business and technical stakeholders into data products using PostgreSQL, Python data-cleansing pipelines, and Tableau, enabling more consistent data analysis and stakeholder reporting"
       ]
     }
   ]
